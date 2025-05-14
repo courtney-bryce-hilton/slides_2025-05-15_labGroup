@@ -287,43 +287,23 @@ ungrounded
 ![](media/figures/billboard_vs_nhs.png){width="50%"}
 :::
 
-## preliminary task results {.center}
+## DDM
 
-![](media/figures/matrix_diagram.png){width="60%"}
-
-## preliminary task results {.center .bit-smaller}
-
-![](media/figures/all_songs_matrix.png){width="60%"}
-
-## preliminary task results
-
-::::: {.columns .incremental}
-::: {.column width="50%"}
-![](media/figures/billboard_matrix.png){width="90%"}
+::: center
+![](media/gifs/ddm_trial1.gif){width="50%"}
 :::
 
-::: {.column .fragment width="50%"}
-![](media/figures/NHS_matrix.png){width="90%"}
+## DDM
+
+::: center
+![](media/gifs/ddm_trial2.gif){width="50%"}
 :::
-:::::
 
-## preliminary task results {.center}
+## DDM
 
-![](media/figures/tonal_similarity_comparison.png){width="50%"}
-
-## rough test of response-time relationships {.bit-smaller .center}
-
-![](media/figures/rt_rough_test.png){width="30%\""}
-
-## rough test of response-time relationships {.bit-smaller .center}
-
-![](media/figures/rt_rough_test_musicLessons.png){width="40%"}
-
-## rough test of response-time relationships {.bit-smaller .center}
-
-![](media/figures/rt_rough_test_corpus.png){width="40%"}
-
-## ...colour? {.center}
+::: center
+![](media/gifs/ddm_trial3.gif){width="50%"}
+:::
 
 ------------------------------------------------------------------------
 
@@ -421,15 +401,6 @@ themusiclab/quizzes/toneguesser
 :::
 :::::
 
-------------------------------------------------------------------------
-
-::: center
-![](media/images/small-beautiful.png){width="70%"}
-:::
-
-::: footer
-Smith & Little, 2018, *Psychonomic Bulletin and Review*
-:::
 
 ## thanks for your attention {.center}
 
